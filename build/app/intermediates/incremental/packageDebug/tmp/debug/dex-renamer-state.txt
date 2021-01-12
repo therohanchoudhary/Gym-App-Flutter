@@ -1,0 +1,4 @@
+#Mon Jan 11 05:53:18 IST 2021
+base.0=/Users/rohanvirangna/Desktop/FlutterProjects/the_body_move/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
